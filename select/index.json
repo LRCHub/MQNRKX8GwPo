@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Free Bird",
+  "base_artist": "Lynyrd Skynyrd",
+  "createdAt": "2026-03-22T02:16:29.654570Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Free Bird",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/01_Free_Bird_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Free Bird",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/02_Free_Bird_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Free Bird",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/03_Free_Bird_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Free Bird",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/04_Free_Bird_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Free Bird",
+      "artist": "Molly Hatchet with Charlie Daniels",
+      "has_synced": false,
+      "path": "select/05_Free_Bird_Molly_Hatchet_with_Charlie_Daniels.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Free Bird",
+      "artist": "Molly Hatchet (with Charlie Daniels)",
+      "has_synced": false,
+      "path": "select/06_Free_Bird_Molly_Hatchet_(with_Charlie_Daniels).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Free Bird (Demo Version)",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/07_Free_Bird_(Demo_Version)_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Free Bird (Demo)",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/08_Free_Bird_(Demo)_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Free Bird ((Live))",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/09_Free_Bird_((Live))_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Free Bird (Live)",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/10_Free_Bird_(Live)_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Free Bird (Live)",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/11_Free_Bird_(Live)_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Free Bird (Outtake Version)",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/12_Free_Bird_(Outtake_Version)_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lynyrd Skynyrd \u0000 Free Bird",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/13_Lynyrd_Skynyrd_\u0000_Free_Bird_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lynyrd Skynyrd - Free Bird",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/14_Lynyrd_Skynyrd_-_Free_Bird_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Free Bird",
+      "artist": "Kingdom Come",
+      "has_synced": false,
+      "path": "select/15_Free_Bird_Kingdom_Come.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Free Bird - Live At The Fox Theater/1976",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/16_Free_Bird_-_Live_At_The_Fox_Theater_1976_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Free Bird",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/pl_01_Free_Bird_Lynyrd_Skynyrd.txt"
+    }
+  ]
+}
